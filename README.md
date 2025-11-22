@@ -1,4 +1,4 @@
-# Project Title: ARBOR VITAE COFFEE: An AI-Generated Luxury Visual Identity
+# Project Title: ARBOR VITAE COFFEE: An AI-Generated Visual Identity
 
 This project focuses on the rapid conceptualization of a premium brand identity for Arbor Vitae Coffee. Drawing on the elegant Latin name 'Tree of Life,' the visual exploration aimed for a blend of classic sophistication and organic simplicity. The design utilizes a minimalist, stylized logo of a seed/sprout within a circular emblem, paired with an earthy, muted color palette (creams, subtle greens, terracotta accents) to convey natural purity and premium quality on packaging mockups.
 
