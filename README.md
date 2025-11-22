@@ -18,4 +18,4 @@ Achieving this clean, natural yet refined aesthetic required careful prompt engi
 
 **Model**: Shakker Zeno 1
 
-###Settings and images linked below
+### Settings and images linked below
